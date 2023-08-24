@@ -3,6 +3,11 @@
 + 一些App的拓展功能  
 ---
 
+# TG群组
+<a href="https://t.me/HookVip555"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>
+<a href="https://t.me/HookVip233"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-群组-blue.svg?logo=telegram"></a>
+---
+
 # 拓展功能
 + 解除录屏/截图限制  
 + 过VPN检测  
@@ -36,6 +41,21 @@
 + 滴答清单 解锁会员(理论全版本)
 + Thanox 解锁高级版(自适配 理论通杀)
 + 阿Q连线器 解锁付费(v1.5.6)
++ MP3提取转换器 解锁会员(v1.9.7)
++ TubeVPN 无限ID无限白嫖(v3.3.2)
++ 小组件盒子 解锁永久会员(v1.17.3)
++ 扫描全能王 解锁高级会员(v6.43.0.23)
++ 云记 解锁永久会员(理论全版本)
++ x8沙箱 解锁会员(v1.1.1)
++ 鲨鱼记账 解锁会员(全版本通杀)
++ 搜云书签 解锁会员(v2.2.8)
++ 云自动弹琴 解锁永久会员(全版本通杀)
++ 小黑屋 解锁高级版(v1.9.18c)
++ Wifi万能钥匙 解锁SVIP(v4.9.53)
++ FakeLocation 解锁会员(理论通杀)
++ 醒图 解锁会员功能(自适配通杀)
++ 快影 解锁会员(理论通杀)
+
 ---
 # 其他功能
 + 快手 无水印保存视频(理论通杀)
@@ -44,3 +64,5 @@
 + 微信 保存表情包 消息防撤回 自动抢红包 防止被敷衍(v8.0.30~40)
 + 奇妙应用 自动签到
 + App分享 去开屏广告
++ Momo 全过/全红/检测原神(长按注意表情切换形态)
+---
