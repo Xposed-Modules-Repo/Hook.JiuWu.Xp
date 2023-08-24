@@ -1,7 +1,17 @@
 # HookVip
-<a href="https://t.me/HookVip555"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>
-
 可解锁部分App会员  
-一些App的拓展功能 
+一些App的拓展功能  
+---
+
+## 拓展功能
++ 解除录屏/截图限制  
++ 过VPN检测  
++ 王者荣耀 过新号实名认证  
++ 蛋仔派对 Android登陆iOS  
++ 通杀所有云注入弹窗  
++ 去除清羽弹窗  
++ 可屏蔽部分常见广告(详细见模块)
 ----
-+ 详细见模块界面  
+
+## 解锁会员
++ 宇宙工具箱 解锁会员(全版本通杀)
