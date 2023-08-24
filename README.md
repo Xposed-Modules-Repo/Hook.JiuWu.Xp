@@ -3,9 +3,9 @@
 + 一些App的拓展功能  
 ---
 
-# TG群组
-<a href="https://t.me/HookVip555"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>
-<a href="https://t.me/HookVip233"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-群组-blue.svg?logo=telegram"></a>
+# Telegram
++ <a href="https://t.me/HookVip555"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>  
++ <a href="https://t.me/HookVip233"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-群组-blue.svg?logo=telegram"></a>  
 ---
 
 # 拓展功能
