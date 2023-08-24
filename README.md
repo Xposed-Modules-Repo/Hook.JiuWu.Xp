@@ -5,5 +5,5 @@
 
 + TG群组  
 [t.me/HookVip233](https://t.me/HookVip233)  
-+ TG群组  
++ TG频道  
 [t.me/HookVip555](https://t.me/HookVip555)  
