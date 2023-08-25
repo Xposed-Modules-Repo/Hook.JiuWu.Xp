@@ -1,11 +1,12 @@
+![HookVip](https://socialify.git.ci/Xposed-Modules-Repo/Hook.JiuWu.Xp/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp/blob/main/icon.png?raw=true&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Light)
 # HookVip
 + 可解锁部分App会员  
 + 一些App的拓展功能  
----
+----
 
 # Telegram
-+ <a href="https://t.me/HookVip555"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>  
-+ <a href="https://t.me/HookVip233"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-群组-blue.svg?logo=telegram"></a>  
+<a href="https://t.me/HookVip555"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>  
+<a href="https://t.me/HookVip233"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-群组-blue.svg?logo=telegram"></a>  
 ---
 
 # 拓展功能
