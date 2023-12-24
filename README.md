@@ -1,7 +1,9 @@
-![HookVip](https://socialify.git.ci/Xposed-Modules-Repo/Hook.JiuWu.Xp/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp/blob/main/icon.png?raw=true&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Light)
-
 # HookVip
 用于解锁部分App会员以及添加一些拓展功能的Xposed模块
+
+![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/Hook.JiuWu.Xp/total)
+[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/Hook.JiuWu.Xp)](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/Hook.JiuWu.Xp)](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp/releases)
 
 ## 解锁会员
 + 宇宙工具箱 解锁会员
