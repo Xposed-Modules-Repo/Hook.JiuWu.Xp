@@ -1,7 +1,7 @@
 # HookVip
 用于解锁部分App会员以及添加一些拓展功能的Xposed模块
-
-![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/Hook.JiuWu.Xp/total)
+[![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/Hook.JiuWu.Xp?label=stars)](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp)
+![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/Hook.JiuWu.Xp/total)
 [![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/Hook.JiuWu.Xp)](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/Hook.JiuWu.Xp)](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp/releases)
 
